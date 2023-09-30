@@ -5,13 +5,12 @@ Challenge Tres de Seis | Formación Front-End | Portafolio Personal
 
 **Página Web:** 
 
-https://eduardout.github.io/Portafolio_Web-Oracle-ONE-Challenge/
+https://portafolio-de-proyectos-gamma.vercel.app
 
 **Vista previa:**
 
-![Vista previa de portafolio web](https://raw.githubusercontent.com/EduardoUT/Portafolio_Web-Oracle-ONE-Challenge/master/assets/img/readme/vista_inicio.PNG)
+![image](https://github.com/Jincoxx/Portafolio-de-proyectos/assets/108629591/2c6f9aa9-0a00-441c-9199-c9d3a89fec63)
 
-Publicado en el topic: https://github.com/topics/challengeoneportafolio
 
 Tercer proyecto de Alura Latam en el que el desafío será crear un portafolio personal en el que mostremos nuestros proyectos desarrollados a lo largo de nuestra carrera como Devs, compartir nuestras experiencias laborales, así como nuestras soft-skills, este será dividido en diversas etapas:
 
